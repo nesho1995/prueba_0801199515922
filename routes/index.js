@@ -13,10 +13,10 @@ router.get('/contacto', function(req, res, next) {
 router.get('/api/usuarios', function(req,res,next){
   var usuarios = [
     {
-      "Nombre":"Hector",
-      "Apellido":"Doblado",
-      "Identidad": "0801199607333",
-      "Correo": "hectorydoblado@gmail.com",
+      "Nombre":"Nestor",
+      "Apellido":"Hernandez",
+      "Identidad": "0801199515922",
+      "Correo": "nhernandezosorto@gmail.com",
       "Areas":[
           {"Area1":"Programación"},
           {"Area2":"Base de Datos"},
